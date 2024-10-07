@@ -27,4 +27,4 @@ To clone this repository to your local machine, follow these steps:
 2. Run the following command:
 
    ```bash
-   git clone https://github.com/yourusername/bmi-calculator.git
+   git clone https://github.com/hardiashrestha/oibsip_level2_BMI-Calculator.git
