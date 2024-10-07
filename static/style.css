@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://example.com/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    color: #fff;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 24px;
+}
