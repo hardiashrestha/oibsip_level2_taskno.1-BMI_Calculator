@@ -13,5 +13,5 @@ document.getElementById('calculateBtn').addEventListener('click', function() {
     .then(data => {
         document.getElementById('result').innerHTML = `BMI: ${data.bmi}, Category: ${data.category}`;
         document.getElementById('result').style.animation = "fadeIn 1s";
-    })
+    });
 });
